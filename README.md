@@ -1,4 +1,9 @@
-> A Vue.js project
+# A Vue project
+
+<p align="center">
+<a href="https://liuhongwei3.github.io"><img alt="Author" src="https://img.shields.io/badge/Author-Tadm-pink.svg?style=flat-square"/></a>
+<img alt="License" src="https://img.shields.io/apm/l/vim-mode?style=flat-square"/>
+</p>
 
 ## Build Setup
 
@@ -485,7 +490,7 @@ const store = new Vuex.Store({
 ## About
 Up to today(2019/6/17),the project will not update!
 
-项目地址: [github](https://github.com/Liuhongwei3/Tadm-store) 
+项目地址: [Github](https://github.com/Liuhongwei3/Tadm-store) 
 If the vue project can be helpful with you,please give me a star~  Thanks!
 
 个人QQ `2873126657` Welcome,we can study more each other！
